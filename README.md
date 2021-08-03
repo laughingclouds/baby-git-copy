@@ -1,6 +1,8 @@
 Baby-GIT - the baby stupid content tracker
 ==========================================
 
+\[**[Link to article that helps you with the whole project](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)**\]
+
 "Baby-git" can mean anything, depending on your mood.
 
  - random letter combination that is pronounceable, and not
